@@ -23,10 +23,5 @@ Este é um simples buscador de países que utiliza a API REST Countries para exi
 3.  As informações sobre o país serão exibidas na área abaixo.
 4.  Clique no botão "Limpar" para remover a informação e texto do campo de busca.
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou pull request.
-
-## Licença
-
-Este projeto está sob a licença [Adicione aqui o tipo de licença que você deseja utilizar].
+## Contato
+Se você tiver dúvidas ou sugestões, entre em contato por [vitttormuniz@gmail.com](mailto:vitttormuniz@gmail.com).
