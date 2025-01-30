@@ -9,10 +9,6 @@ Este é um simples buscador de países que utiliza a API REST Countries para exi
 *   **Limpeza da busca:** Um botão para limpar a caixa de busca e a área de informações.
 *   **Tratamento de erros:** Exibe mensagens de erro caso o país não seja encontrado.
 
-## Demonstração
-
-[Se possível adicione um link aqui para uma versão online do seu projeto]
-
 ## Tecnologias Utilizadas
 
 *   **HTML:** Estrutura da página web.
@@ -20,15 +16,17 @@ Este é um simples buscador de países que utiliza a API REST Countries para exi
 *   **JavaScript:** Interatividade e lógica da aplicação.
 *   **API:** REST Countries (https://restcountries.com/)
 
-## Como executar
+## Como usar
 
-1.  **Clone o repositório:**
+1.  Digite o nome do país que você deseja pesquisar no campo de texto.
+2.  Clique no botão "Buscar".
+3.  As informações sobre o país serão exibidas na área abaixo.
+4.  Clique no botão "Limpar" para remover a informação e texto do campo de busca.
 
-    ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
-    ```
-2.  **Abra o arquivo `index.html` em seu navegador:**
+## Contribuições
 
-    Navegue até a pasta onde você clonou o projeto e abra o arquivo `index.html` em seu navegador web preferido.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou pull request.
 
-## Estrutura do Projeto
+## Licença
+
+Este projeto está sob a licença [Adicione aqui o tipo de licença que você deseja utilizar].
